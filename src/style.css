@@ -1,0 +1,32 @@
+.m2 {
+  margin: auto 2rem;
+}
+
+.p2 {
+  padding: auto 2rem;
+}
+
+.mt5 {
+  margin-top: 5rem;
+}
+
+.mt2 {
+  margin-top: 2rem;
+}
+
+#image {
+  position: relative;
+  height: 600px;
+  width: 750px;
+  user-select: none;
+  pointer-events: none;
+}
+
+#title {
+  margin: auto;
+  font-size: 8rem;
+}
+
+a {
+  color: white;
+}
